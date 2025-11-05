@@ -1,0 +1,22 @@
+.titulo {
+    font-family: 'Courier New', Courier, monospace
+ }
+
+ .elaboracion {
+    text-align: left;
+ }
+
+ h6{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: large;
+ }
+
+.titulo-home {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #5a2d0c; /* tono chocolate oscuro */
+  text-align: center;
+  margin-top: 2rem;  
+  letter-spacing: 1px;
+}

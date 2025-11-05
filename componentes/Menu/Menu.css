@@ -1,0 +1,39 @@
+.menu {
+  background-color: #5a2d0c; /* color cacao */
+  padding: 15px 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  border-bottom: 3px solid #3e1d04;
+  font-family: "Poppins", sans-serif;
+  top: 0;
+  z-index: 1000;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  transition: transform 0.2s ease;
+}
+
+.menu li:hover {
+  transform: scale(1.1);
+}
+
+.menu a {
+  color: #f9e4bc; /* tono crema */
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.menu a:hover{
+  color: #fff2d9;
+  text-shadow: 0 0 10px rgba(255, 230, 180, 0.8);
+}
