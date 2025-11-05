@@ -2,7 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import "./Menu.css";
 
 function Menu() {
-  const location = useLocation(); // Detecta en qué ruta estás
+  const location = useLocation();
 
   return (
     <nav className="menu">

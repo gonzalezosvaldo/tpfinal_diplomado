@@ -5,8 +5,8 @@
   justify-content: center;
   background-color: rgb(216, 100, 100);
   color: white;
-  padding: 0px 0;    /* mínimo espacio */
-  line-height: 0,5;    /* reduce el alto del texto */
-  font-size: 8px;   /* hace el texto un poco más chico */
+  padding: 0px 0;   
+  line-height: 0,5;   
+  font-size: 8px;   
   font-family: italic;
 }

@@ -11,7 +11,7 @@ function DetallesChocolate() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const data = await fetchChocolates(); //Utiliza la funcion fetchPersonajes
+        const data = await fetchChocolates(); 
         setChocolates(data);
         setLoading(false);
       } catch (error) {
