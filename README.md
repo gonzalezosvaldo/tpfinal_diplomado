@@ -1,6 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1) Proyecto Final - Diplomatura
+
+Actividad: Desarrollar un ecommerce en react
+
+Este proyecto lo desarrolle como parte del trabajo final de la Diplomatura Professional Backend Developer.  
+Incluye:
+ - Una página de inicio, en donde describe un poco la historia de la empresa, sus productos y su mano de obra
+ - Menú, que va cambiando en base el ruteo de la pagina.
+ - Inicio de sesion y registro, para que los clientes puedan tener cuenta propia en la pagina y poder comprar ya con sus datos.
+ - Gestión de productos con conexión a una API local creada en MockAPI.
+
+2) Tecnologías utilizadas
+- HTML / CSS / JavaScript
+- React
+- MockAPI
+- Git y GitHub
 
 Currently, two official plugins are available:
 
